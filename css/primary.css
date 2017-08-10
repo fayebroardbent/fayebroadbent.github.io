@@ -14,6 +14,13 @@ table { border-collapse: collapse; border-spacing: 0; }
 .container { overflow: hidden; padding: 0 1em; max-width: 30em; margin: auto; }
 body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; }
 
+/* excerpt */
+@media (min-device-width: 760px) { 
+  .excerpt p { font-size: 0px; }
+  .excerpt a { font-size: 0.9em; }
+  body { background-color: blue; }
+}
+
 /* blog title */
 h1 { font-size: 100%; font-weight: normal; color: #d3d3d3; margin: 0 .05em 0 0; text-align: center; }
 h1 a { color: #d3d3d3; text-decoration: none; }
@@ -37,13 +44,6 @@ p { line-height: 1.45em; margin: .9em 0 0 0; font-size: 0.9em; color: #333; }
 .footer { margin-top: 1em; margin-bottom: 1em; text-align: center; }
 .footer a { color: #a2071f }
 .footer p { font-size: .8em; letter-spacing: .2em; color: #666; }
-
-/* excerpt */
-@media (min-device-width: 760px) { 
-  .excerpt p { font-size: 0px; }
-  .excerpt a { font-size: 0.9em; }
-  body { background-color: blue; }
-}
 
 /* hyperlinks */
 a { text-decoration: none; }
