@@ -57,11 +57,3 @@ img { border: 0; padding: 3px; width: 100%; margin-top: 1em; }
 img a { border: 0 }
 
 em { font-style: italic; } 
-
-//CSS
-.visibledevice {display:none;}
-.visibledesktop {display:display;}
-
-@media (max-width : 320px) {
-.visibledevice {display:block;}
-.visibledesktop {display:none;}
