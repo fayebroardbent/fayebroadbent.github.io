@@ -40,7 +40,7 @@ p { line-height: 1.45em; margin: .9em 0 0 0; font-size: 0.9em; color: #333; }
 
 /* hyperlinks */
 a { text-decoration: none; }
-.content a { color: #0000EE; }
+.content a { color: #e20e38; }
 
 /* lists */
 ul { list-style-type: none; margin-left: 2em; }
