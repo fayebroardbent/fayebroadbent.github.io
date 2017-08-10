@@ -1,0 +1,51 @@
+/* CSS sheet designed by Tom Kuson. Heavily inspired by Leo Babauta's Zen Habits theme. */
+
+/* CSS reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: '';content: none; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+/* common */
+.container { overflow: hidden; padding: 0 1em; max-width: 30em; margin: auto; }
+body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; }
+
+/* blog title */
+h1 { font-size: 100%; font-weight: normal; color: #d3d3d3; margin: 0 .05em 0 0; text-align: center; }
+h1 a { color: #d3d3d3; text-decoration: none; }
+
+/* post title */
+h2 { font-size: 1.5em; color: #333; margin-top: 0.5em; text-align: center; }
+
+/* subtitles */
+h3 { font-size: 1em; color: #666; font-weight: normal; line-height: 1em; margin-top: 0.5em; text-align: center; }
+
+/* credits */
+h4 { font-size: 1em; line-height: 1em; color: #666; margin: 1em 0 .5em 0; letter-spacing: .1em; margin-bottom: 1em; text-align: center; opacity: 0.30; }
+
+/* content paragraph */
+p { line-height: 1.45em; margin: .9em 0 0 0; font-size: 0.9em; color: #333; }
+
+/* footer */
+.footer { margin-top: 1em; margin-bottom: 1em; text-align: center; }
+.footer a { color: #666 }
+.footer p { font-size: .8em; letter-spacing: .2em; color: #666; }
+
+/* hyperlinks */
+a { text-decoration: none; }
+.content a { color: #0000EE; }
+
+/* lists */
+ul { list-style-type: none; margin-left: 2em; }
+ol { list-style-type: none; margin-left: 2em; }
+li { line-height: 1.45em; margin: .7em 0 0 0; font-size: 0.9em; color: #333; }
+
+/* images */
+img { border: 0; padding: 3px; width: 100%; margin-top: 1em; }
+img a { border: 0 }
+
+em { font-style: italic; } 
