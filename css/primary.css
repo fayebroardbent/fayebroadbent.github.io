@@ -23,7 +23,7 @@ body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-
 
 /* excerpt - desktop */
 @media (min-device-width: 760px) { 
-  .excerpt p { font-size: 0.9em; }
+  .excerpt p { font-size: 0.9em; line-height: 1.45em; margin: .9em 0 0 0; color: #333;}
   .mob-read-link p { font-size: 0px; }
 }
 
