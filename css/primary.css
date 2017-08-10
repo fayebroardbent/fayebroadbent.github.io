@@ -15,10 +15,10 @@ table { border-collapse: collapse; border-spacing: 0; }
 body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; }
 
 /* excerpt */
-@media (max-device-width: 760px) { 
+@media (min-device-width: 760px) { 
   .excerpt p { font-size: 0px; }
   .excerpt a { font-size: 0.9em; }
-  body { background-color: blue; }
+  body { background-color: red; }
 }
 
 /* blog title */
