@@ -25,7 +25,7 @@ h2 { font-size: 1.5em; color: #333; margin-top: 0.5em; text-align: center; }
 h3 { font-size: 1em; color: #666; font-weight: normal; line-height: 1em; margin-top: 0.5em; }
 
 /* home hyperlink */
-.home h3 {ext-align: center; }
+.home h3 {text-align: center; }
 
 /* credits */
 h4 { font-size: 1em; line-height: 1em; color: #666; margin: 1em 0 .5em 0; letter-spacing: .1em; margin-bottom: 1em; text-align: center; opacity: 0.30; }
