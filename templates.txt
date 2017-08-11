@@ -1,0 +1,26 @@
+This is the template page. 
+If you want to use a template, copy and paste the template and insert the correct information where applicable.
+Try not to deviate from the template unless you're feeling confident!
+
+
+/* Meta */
+/* This must be present on every page */
+
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="stylesheet" href="/css/primary.css"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+
+
+/* Page title */
+
+<title>INSERT PAGE TITLE HERE</title>
+
+
+/* Page description */
+/* The more descriptive the description, the higher the page will rank on search engines */
+/* This should be unique for every page */
+
+<meta name="description" content="INSERT PAGE DESCRIPTION HERE">
+
+
+/* Navigation menu links -- footer links */
+
+<a href="https://www.example.com/something/">INSERT LINK TEXT HERE</a>
