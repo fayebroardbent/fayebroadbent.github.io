@@ -31,7 +31,7 @@ Try not to deviate from the template unless you're feeling confident!
 <h3>[INSERT POST TITLE HERE]</h3>
 <img src="[https://www.example.com/insert_image_link_here.jpeg]">
 <div class="excerpt">
-  <p>INSERT POST EXCERPT HERE -- I find the first two sentences are good, but feel free to fiddle, just paste it here. This won't appear on mobile.
+  <p>[INSERT POST EXCERPT HERE -- I find the first two sentences are good, but feel free to fiddle, just paste it here. This won't appear on mobile.]
   <a href="[https://www.example.com/insert_post_link_here/]">READ MORE</a></p>
 </div class="excerpt">
 <div class="mob-read-link">
