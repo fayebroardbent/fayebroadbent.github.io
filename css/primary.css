@@ -15,8 +15,8 @@ table { border-collapse: collapse; border-spacing: 0; }
 body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; }
 
 /* remove padding */
-.excerpt div { padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; }
-.mod-read-link div { padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; }
+.excerpt p { padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; }
+.mod-read-link p { padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; }
 
 /* excerpt - mobile */
 @media (max-device-width: 760px) { 
