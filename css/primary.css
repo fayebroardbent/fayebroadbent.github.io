@@ -14,20 +14,17 @@ table { border-collapse: collapse; border-spacing: 0; }
 .container { overflow: hidden; padding: 0 1em; max-width: 30em; margin: auto; }
 body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; }
 
-/* remove padding */
-.excerpt p { padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; }
-.mod-read-link p { padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; }
 
 /* excerpt - mobile */
 @media (max-device-width: 760px) { 
   .excerpt p { font-size: 0px; }
-  .mob-read-link p { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; font-size: 0.9em; text-decoration: none; color: #0000EE; line-height: 1.45em; margin: .9em 0 0 0; }
-  .mob-read-link a { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; font-size: 0.9em; text-decoration: none; color: #0000EE; line-height: 1.45em; margin: .9em 0 0 0; }
+  .mob-read-link p { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; font-size: 0.9em; text-decoration: none; color: #0000EE; line-height: 1.45em; margin: 0em 0 0 0; }
+  .mob-read-link a { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; font-size: 0.9em; text-decoration: none; color: #0000EE; line-height: 1.45em; margin: 0em 0 0 0; }
 }
 
 /* excerpt - desktop */
 @media (min-device-width: 760px) { 
-  .excerpt p { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; font-size: 0.9em; line-height: 1.45em; margin: .9em 0 0 0; color: #333;}
+  .excerpt p { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; font-size: 0.9em; line-height: 1.45em; margin: 0em 0 0 0; color: #333;}
   .mob-read-link p { font-size: 0px; }
 }
 
